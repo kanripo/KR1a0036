@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 復齋易說
-#+DATE: 2015-09-23 09:34:27
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 21:54:43.285682
+#+PROPERTY: ID KR1a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1a0036_WYG_004-1a>¶
 欽定四庫全書¶
 　復齋易說卷五¶
@@ -362,4 +364,3 @@
 　¶
 　¶
 　復齋易説卷五¶
-

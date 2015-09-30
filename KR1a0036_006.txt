@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 復齋易說
-#+DATE: 2015-09-23 09:34:27
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 21:54:43.338109
+#+PROPERTY: ID KR1a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 跋
 <pb:KR1a0036_WYG_006-1a>¶
 　　右易說六卷復齋趙先生所述也是書觀象玩爻¶
 　　无一字外來研精覃思无一辭苟發出自胷臆无¶
@@ -24,4 +26,3 @@
 　　因屬喻君校勘刊置公之祠堂與志學者共之併¶
 　　以公之行實大槩刊附于後俾來者有攷焉嘉定¶
 　　辛巳六月望莆陽許興裔謹識¶
-
